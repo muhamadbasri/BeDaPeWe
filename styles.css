@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+nav a {
+   font-size: 18px;
+}
 body {
    font-family: 'Quicksand', sans-serif;
 }
