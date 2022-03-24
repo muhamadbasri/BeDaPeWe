@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
 nav a:hover {
    font-size: 18px;
-   font-weight: bold;
+   font-weight: 400;
    text-decoration: none;
 }
 body {
